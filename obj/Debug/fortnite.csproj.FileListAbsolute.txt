@@ -1,0 +1,9 @@
+C:\Users\nalac\source\repos\fortnite\fortnite\bin\Debug\fortnite.exe.config
+C:\Users\nalac\source\repos\fortnite\fortnite\bin\Debug\fortnite.exe
+C:\Users\nalac\source\repos\fortnite\fortnite\bin\Debug\fortnite.pdb
+C:\Users\nalac\source\repos\fortnite\fortnite\obj\Debug\fortnite.csprojResolveAssemblyReference.cache
+C:\Users\nalac\source\repos\fortnite\fortnite\obj\Debug\fortnite.csproj.CoreCompileInputs.cache
+C:\Users\nalac\source\repos\fortnite\fortnite\obj\Debug\fortnite.exe
+C:\Users\nalac\source\repos\fortnite\fortnite\obj\Debug\fortnite.pdb
+C:\Users\nalac\source\repos\fortnite\fortnite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nalac\source\repos\fortnite\fortnite\bin\Debug\Newtonsoft.Json.xml
